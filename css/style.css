@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background: url('images/header-bg.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#about img {
+    margin-bottom: 20px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
